@@ -6,8 +6,8 @@ The Invitor is a sample project demonstrating inviting Customers Based on their 
 The Invitor attempts to use the latest Kotlin libraries and tools. As a summary:
 
  * Whole code base is written in [Kotlin](https://kotlinlang.org/)
- * Covarage 100%
- * Uses the MVVM (Use-Cases and Interactors for more concern seperation)
+ * UnitTest Covarage 100%
+ * Uses the MVVM Architecture (along with Use-Cases and Interactors for more concern seperation)
 * Uses [Dagger2](https://google.github.io/dagger) for dependency injection
 
 ## Architecture
